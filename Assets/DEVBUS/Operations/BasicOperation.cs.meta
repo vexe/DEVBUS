@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f15040a9f5c5bda4e87ca65b7251cb8e
+labels:
+- devbus
+- commandpatternundo
+- betterundo
+- betterundosystem
+- friendlyundo
+- friendlyundosystem
+- undosystem
+- commandundo
+- commandpattern
+- undo
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
