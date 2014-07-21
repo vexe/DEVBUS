@@ -1,7 +1,7 @@
 ﻿namespace DEVBUS
 {
 	/// <summary>
-	/// An element to a list insertion operation
+	/// List element insertion operation
 	/// </summary>
 	public class InsertToList<T> : ListOperation<T>
 	{

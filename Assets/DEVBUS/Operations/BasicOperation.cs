@@ -4,7 +4,8 @@ namespace DEVBUS
 {
 	/// <summary>
 	/// The most basic forms of operations - all it has is two delegates:
-	/// OnPerformed to invoke in Perform, and OnUndone in Undo
+	/// an OnPerformed that gets fired after the operation is performed,
+	/// and on OnUndone get gets fired after the operation is undone
 	/// </summary>
 	public class BasicOperation : IOperation
 	{

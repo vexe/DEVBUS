@@ -7,7 +7,7 @@ namespace DEVBUS
 {
 	public static class BetterUndoMenuItems
 	{
-		private const string MenuPath = "Vexe/BetterUndo";
+		private const string MenuPath = "Tools/Vexe/BetterUndo";
 		private static BetterUndo current { get { return BetterUndo.Current; } }
 
 		[MenuItem(MenuPath + "/Undo %&u")]

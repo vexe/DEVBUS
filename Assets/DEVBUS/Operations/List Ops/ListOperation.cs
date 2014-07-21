@@ -9,7 +9,7 @@ namespace DEVBUS
 	public abstract class ListOperation<T> : BasicOperation
 	{
 		/// <summary>
-		/// List getter
+		/// The list getter/setter
 		/// </summary>
 		public Func<List<T>> GetList { get; set; }
 

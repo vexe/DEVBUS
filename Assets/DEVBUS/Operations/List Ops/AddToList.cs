@@ -2,6 +2,9 @@
 
 namespace DEVBUS
 {
+	/// <summary>
+	/// Acts like InsertToList. Inserts the element at the end of the list
+	/// </summary>
 	public class AddToList<T> : InsertToList<T>
 	{
 		public override int Index
